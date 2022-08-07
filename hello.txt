@@ -1,0 +1,3 @@
+Hello World!
+The location of this file is
+D:\Java\idea_workspace\书\JavaSe_hsp\hello.txt
